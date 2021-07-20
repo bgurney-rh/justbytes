@@ -1,13 +1,10 @@
 justbytes 0.16 (UNRELEASED)
 ===========================
-
-Recommended Python interpreter: 3.9.2
-Recommended tox version: 3.19.0
-Python auto-formatter: black (20.8b1)
-Python import sorter: isort (5.6.4)
-YAML linter: yamllint (1.26.0)
+Recommended development distro: Fedora 33
 
 - Tidies and Maintenance:
+  https://github.com/stratis-storage/justbytes/pull/69
+  https://github.com/stratis-storage/justbytes/pull/68
   https://github.com/stratis-storage/justbytes/pull/66
   https://github.com/stratis-storage/justbytes/pull/65
   https://github.com/stratis-storage/justbytes/pull/64
